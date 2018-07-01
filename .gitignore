@@ -7,7 +7,7 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-
+.idea
 #文档文件夹
 docs/*.docx
 docs/*.png
