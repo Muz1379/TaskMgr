@@ -10,6 +10,8 @@ buildNumber.properties
 
 #文档文件夹
 docs/*.docx
+docs/*.png
+docs/*.vsdx
 
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
